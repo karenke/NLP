@@ -1,0 +1,73 @@
+extension:
+./svm_learn data/extension/unigramTrain_positiveRelabeled.txt data/unigram_pos_isTorN_model
+./svm_learn data/extension/unigramTrain_negativeRelabeled.txt data/unigram_neg_isTorN_model
+
+./svm_learn -c 0.001 data/extension/unigramTrain_positiveRelabeled.txt data/unigram_pos_isTorN_model
+./svm_learn -c 0.001 data/extension/unigramTrain_negativeRelabeled.txt data/unigram_neg_isTorN_model
+
+
+./svm_classify data/extension/unigramValidation_positiveRelabeled.txt data/unigram_pos_isTorN_model data/unigram_pos_TorN_prediction
+./svm_classify data/extension/unigramValidation_negativeRelabeled.txt data/unigram_neg_isTorN_model data/unigram_neg_TorN_prediction
+
+
+./svm_classify data/extension/unigramsTest_postive.txt data/unigram_pos_isTorN_model data/unigram_pos_TorN_prediction
+./svm_classify data/extension/unigramsTest_negative.txt data/unigram_neg_isTorN_model data/unigram_neg_TorN_prediction
+
+
+basic:
+
+./svm_learn data/relabeled/unigramsTrain_isTruthfulRelabeled.txt data/unigram_model
+
+./svm_learn -c 0.001 data/relabeled/unigramsTrain_isTruthfulRelabeled.txt data/unigram_model
+
+./svm_learn -c 100 -x 1 data/relabeled/unigramsTrain_isTruthfulRelabeled.txt data/unigram_model
+
+
+
+./svm_classify data/relabeled/unigramsValidation_isTruthfulRelabeled.txt data/unigram_model data/unigram_prediction
+
+./svm_classify data/relabeled/unigramsTest_isTruthfulRelabeled.txt data/unigram_model data/unigram_prediction
+
+
+
+./svm_learn data/relabeled/outBiTrain_isTruthfulRelabeled.txt data/bigram_model
+
+./svm_learn -c 0.01 data/relabeled/outBiTrain_isTruthfulRelabeled.txt data/bigram_model
+
+./svm_learn -c 10 -x 1 data/relabeled/outBiTrain_isTruthfulRelabeled.txt data/bigram_model
+
+./svm_classify data/relabeled/outBiValidation_isTruthfulRelabeled.txt data/bigram_model data/bigram_prediction
+./svm_classify data/relabeled/outBiTest_isTruthfulRelabeled.txt data/bigram_model data/bigram_prediction
+
+
+
+./svm_learn -c 0.1 -x 1 data/relabeled/charTrain_isTruthfulRelabeled.txt data/char_model
+
+
+
+./svm_classify data/relabeled/charValidation_isTruthfulRelabeled.txt data/char_model data/char_prediction
+
+./svm_classify data/relabeled/charTest_isTruthfulRelabeled.txt data/char_model data/char_prediction
+
+
+ti_idf
+./svm_learn data/tfidf_train.txt data/tfidf_model
+
+./svm_learn -c 10 -x 1 data/tfidf_train.txt data/tfidf_model
+
+./svm_classify data/tfidf_test.txt data/tfidf_model data/tfidf_prediction
+
+
+extenstion:
+./svm_learn data/tfidf_train_isPositive.txt data/tfidf_isPorN_model
+./svm_learn -c 0.1 -x 1 data/tfidf_train_isPositive.txt data/
+
+./svm_classify data/tfidf_test_isPositive.txt data/tfidf_isPorN_model data/tfidf_isPositive_prediction
+
+
+./svm_learn -c 0.1 -x 1 data/extension/tfidfTrain_positive.txt data/tfidf_pos_isTorN_model
+./svm_learn -c 0.1 -x 1 data/extension/tfidfTrain_negative.txt data/tfidf_neg_isTorN_model
+
+
+./svm_classify data/extension/tfidfTest_positive.txt data/tfidf_pos_isTorN_model data/tfidf_pos_TorN_prediction
+./svm_classify data/extension/tfidfTest_negative.txt data/tfidf_neg_isTorN_model data/tfidf_neg_TorN_prediction

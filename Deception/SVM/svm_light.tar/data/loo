@@ -1,0 +1,104 @@
+0.001
+Leave-one-out estimate of the error: error=40.04%
+Leave-one-out estimate of the recall: recall=7.05%
+Leave-one-out estimate of the precision: precision=94.44%
+
+0.1
+Leave-one-out estimate of the error: error=16.73%
+Leave-one-out estimate of the recall: recall=77.80%
+Leave-one-out estimate of the precision: precision=82.24%
+
+10
+Leave-one-out estimate of the error: error=16.37%
+Leave-one-out estimate of the recall: recall=78.22%
+Leave-one-out estimate of the precision: precision=82.68%
+
+100
+Leave-one-out estimate of the error: error=16.37%
+Leave-one-out estimate of the recall: recall=78.22%
+Leave-one-out estimate of the precision: precision=82.68%
+
+1000
+Leave-one-out estimate of the error: error=16.37%
+Leave-one-out estimate of the recall: recall=78.22%
+Leave-one-out estimate of the precision: precision=82.68%
+
+
+bigrams:
+0.001
+Leave-one-out estimate of the error: error=42.88%
+Leave-one-out estimate of the recall: recall=0.00%
+Leave-one-out estimate of the precision: precision=nan%
+
+0.1
+Leave-one-out estimate of the error: error=23.22%
+Leave-one-out estimate of the recall: recall=57.88%
+Leave-one-out estimate of the precision: precision=82.79%
+
+10
+Leave-one-out estimate of the error: error=23.22%
+Leave-one-out estimate of the recall: recall=57.88%
+Leave-one-out estimate of the precision: precision=82.79%
+
+
+charngrams:
+0.001
+Leave-one-out estimate of the error: error=35.59%
+Leave-one-out estimate of the recall: recall=19.09%
+Leave-one-out estimate of the precision: precision=90.20%
+
+0.1
+Leave-one-out estimate of the error: error=21.71%
+Leave-one-out estimate of the recall: recall=73.03%
+Leave-one-out estimate of the precision: precision=75.54%
+
+100
+Leave-one-out estimate of the error: error=21.71%
+Leave-one-out estimate of the recall: recall=73.03%
+Leave-one-out estimate of the precision: precision=75.54%
+
+
+tfidf
+0.001
+Leave-one-out estimate of the error: error=31.67%
+Leave-one-out estimate of the recall: recall=42.12%
+Leave-one-out estimate of the precision: precision=72.50%
+
+
+0.1
+Leave-one-out estimate of the error: error=28.29%
+Leave-one-out estimate of the recall: recall=60.37%
+Leave-one-out estimate of the precision: precision=69.62%
+
+
+
+extension
+is Positive:
+
+0.1
+Leave-one-out estimate of the error: error=19.84%
+Leave-one-out estimate of the recall: recall=83.81%
+Leave-one-out estimate of the precision: precision=78.11%
+
+
+pos: is truthful
+0.001
+Leave-one-out estimate of the error: error=26.76%
+Leave-one-out estimate of the recall: recall=87.55%
+Leave-one-out estimate of the precision: precision=68.06%
+
+0.1
+Leave-one-out estimate of the error: error=24.69%
+Leave-one-out estimate of the recall: recall=80.08%
+Leave-one-out estimate of the precision: precision=73.11%
+
+neg: 
+0.001
+Leave-one-out estimate of the error: error=25.23%
+Leave-one-out estimate of the recall: recall=89.41%
+Leave-one-out estimate of the precision: precision=69.16%
+
+0.1
+Leave-one-out estimate of the error: error=18.22%
+Leave-one-out estimate of the recall: recall=85.36%
+Leave-one-out estimate of the precision: precision=79.65%

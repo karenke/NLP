@@ -1,0 +1,597 @@
+<dictmap>
+<lexelt item="activate.v">
+<sense id="38201" source="ws" wn="activate%2:36:00::" synset="activate actuate energize start stimulate" gloss="initiate action make active"/>
+<sense id="38202" source="ws" wn="activate%2:30:03::" synset="activate" gloss="chemistry make reactive heating"/>
+<sense id="38203" source="ws" wn="activate%2:30:00::" synset="activate assign ready" gloss="assign military unit active status"/>
+<sense id="38204" source="ws" wn="activate%2:30:01::" synset="activate" gloss="physics cause radioactive properties substance"/>
+<sense id="38205" source="ws" wn="activate%2:30:02::" synset="activate aerate oxygenate" gloss="cause decomposition sewage aerating"/>
+</lexelt>
+
+
+<lexelt item="add.v">
+<sense id="42601" source="ws" wn="add%2:30:00::" synset="add" gloss="combine something with something else often increase amount number latter i added herbs recipe wants add this stamp collection"/>
+<sense id="42602" source="ws" wn="add%2:32:00::" synset="add sum tally total" gloss="find total often fol add numbers"/>
+<sense id="42603" source="ws" wn="add%2:32:01::" synset="add append supplement tack on" gloss="say write beyond what said written"/>
+<sense id="42604" source="ws" wn="add%2:31:00::" synset="add total" gloss="perform mathematical operation addition"/>
+<sense id="42605" source="ws" wn="add%2:32:00::" synset="add figure" gloss="make correct total expected result fol quitting doesn t add"/>
+<sense id="42606" source="ws" wn="add%2:42:00::;add%2:40:00::" synset="add" gloss="increase fol"/>
+</lexelt>
+
+
+<lexelt item="appear.v">
+<sense id="190901" source="ws" wn="appear%2:30:00::;appear%2:30:02::" synset="appear arise emerge show" gloss="view become visible"/>
+<sense id="190902" source="ws" wn="appear%2:39:00::;appear%2:39:01::" synset="appear look seem" gloss="seem appears smart i doubts"/>
+<sense id="190903" source="ws" wn="appear%2:30:01::;appear%2:36:00::" synset="appear come_out" gloss="before public book performer"/>
+</lexelt>
+
+
+<lexelt item="argument.n">
+<sense id="argument%1:09:00::" source="wn" synset="argument independent_variable " gloss="variable logical mathematical expression whose value determines dependent variable f x =y x independent variable"/>
+<sense id="argument%1:10:00::" source="wn" synset="argument debate " gloss="discussion reasons advanced for proposition proposal argument foreign aid goes"/>
+<sense id="argument%1:10:01::" source="wn" synset="argument literary_argument " gloss="summary subject plot literary work play movie editor added argument poem"/>
+<sense id="argument%1:10:02::" source="wn" synset="argument statement " gloss="fact assertion offered evidence something true strong argument hypothesis true"/>
+<sense id="argument%1:10:03::" source="wn" synset="controversy contention contestation tilt argument arguing " gloss="dispute strong disagreement involved violent argument"/>
+</lexelt>
+
+
+<lexelt item="arm.n">
+<sense id="arm%1:06:00::" source="wn" synset="sleeve arm " gloss="part garment attached armhole provides cloth covering for arm"/>
+<sense id="arm%1:06:01::" source="wn" synset="weapon arm weapon_system " gloss="instrument used fighting hunting licensed carry weapon"/>
+<sense id="arm%1:06:02::" source="wn" synset="arm " gloss="part armchair sofa supports elbow forearm seated person"/>
+<sense id="arm%1:06:03::" source="wn" synset="arm branch " gloss="any projection thought resemble arm arm record player arm sea branch sewer"/>
+<sense id="arm%1:08:00::" source="wn" synset="arm " gloss="human limb technically part superior limb shoulder elbow commonly used refer whole superior limb"/>
+<sense id="arm%1:14:00::" source="wn" synset="branch subdivision arm " gloss="administrative division larger complex organization branch congress"/>
+</lexelt>
+
+
+<lexelt item="ask.v">
+<sense id="238101" source="ws" wn="ask%2:32:00::;ask%2:32:02::" synset="ask inquire_of query question" gloss="put question asked me do"/>
+<sense id="238102" source="ws" wn="ask%2:32:05::" synset="ask" gloss="request i asked him close window"/>
+<sense id="238103" source="ws" wn="ask%2:42:00::" synset="ask demand require" gloss="demand expect i ask little respect"/>
+<sense id="238104" source="ws" synset="ask invite" gloss="invite asked me movies"/>
+<sense id="238105" source="ws" wn="ask%2:32:04::" synset="ask inquire" gloss="question inquire asked"/>
+<sense id="238106" source="ws" wn="ask%2:32:01::" synset="ask request" gloss="request seek usu fol for asked for water"/>
+</lexelt>
+
+
+<lexelt item="atmosphere.n">
+<sense id="atmosphere%1:07:00::" source="wn" synset="air aura atmosphere " gloss="distinctive intangible quality surrounding person thing: air mystery house neglected air atmosphere defeat pervaded candidate s headquarters place aura romance"/>
+<sense id="atmosphere%1:15:00::" source="wn" synset="atmosphere " gloss="mass air surrounding earth great heat comet entered atmosphere"/>
+<sense id="atmosphere%1:17:00::" source="wn" synset="atmosphere " gloss="envelope gases surrounding any celestial body"/>
+<sense id="atmosphere%1:23:00::" source="wn" synset="standard_atmosphere atmosphere atm standard_pressure " gloss="unit pressure: pressure will support column mercury 760 mm high sea level 0 degrees centigrade"/>
+<sense id="atmosphere%1:26:00::" source="wn" synset="atmosphere atmospheric_state " gloss="weather climate place atmosphere thick with fog"/>
+<sense id="atmosphere%1:26:01::" source="wn" synset="atmosphere ambiance ambience " gloss="particular environment surrounding influence atmosphere excitement"/>
+</lexelt>
+
+
+<lexelt item="audience.n">
+<sense id="audience%1:10:00::" source="wn" synset="consultation audience interview " gloss="conference usually with someone important consultation with judge requested audience with king"/>
+<sense id="audience%1:14:00::" source="wn" synset="audience " gloss="gathering spectators listeners usually public performance audience applauded someone audience began cough"/>
+<sense id="audience%1:14:01::" source="wn" synset="audience " gloss="part general public interested source entertainment every artist needs audience broadcast reached audience millions"/>
+<sense id="audience%1:26:00::" source="wn" synset="hearing audience " gloss="opportunity state your case heard condemned him without hearing lost audience"/>
+</lexelt>
+
+
+<lexelt item="bank.n">
+<sense id="bank%1:04:00::" source="wn" synset="bank " gloss="flight maneuver aircraft tips laterally longitudinal axis especially turning plane went steep bank"/>
+<sense id="bank%1:06:00::" source="wn" synset="bank bank_building " gloss="building commercial banking transacted bank corner nassau witherspoon"/>
+<sense id="bank%1:06:01::" source="wn" synset="savings_bank coin_bank money_box bank " gloss="container usually with slot top for keeping money home coin bank empty"/>
+<sense id="bank%1:14:00::" source="wn" synset="depository_financial_institution bank banking_concern banking_company " gloss="financial institution accepts deposits channels money lending activities cashed check bank bank holds mortgage my home"/>
+<sense id="bank%1:14:01::" source="wn" synset="bank " gloss="arrangement similar objects row tiers operated bank switches"/>
+<sense id="bank%1:17:00::" source="wn" synset="bank " gloss="long ridge pile huge bank earth"/>
+<sense id="bank%1:17:01::" source="wn" synset="bank " gloss="sloping land especially slope beside body water pulled canoe bank sat bank river watched currents"/>
+<sense id="bank%1:17:02::" source="wn" synset="bank cant camber " gloss="slope turn road track outside higher inside order reduce effects centrifugal force"/>
+<sense id="bank%1:21:00::" source="wn" synset="bank " gloss="supply stock held reserve for future especially emergencies"/>
+<sense id="bank%1:21:01::" source="wn" synset="bank " gloss="funds held gambling house dealer gambling games tried break bank monte carlo"/>
+</lexelt>
+
+
+<lexelt item="begin.v">
+<sense id="369201" source="ws" wn="begin%2:30:00::" synset="begin commence set_about start" gloss="perform first step process start"/>
+<sense id="369202" source="ws" wn="begin%2:42:00::" synset="begin commence originate start" gloss=""/>
+<sense id="369203" source="ws" wn="begin%2:30:01::" synset="begin commence kick_off lead open set_about start" gloss="perform first step something start"/>
+<sense id="369204" source="ws" wn="begin%2:30:01::" synset="begin inaugurate initiate start undertake" gloss="cause"/>
+</lexelt>
+
+
+<lexelt item="climb.v">
+<sense id="770001" source="ws" wn="climb%2:38:00::" synset="climb ascend" gloss="move upward go towards top ascend"/>
+<sense id="770002" source="ws" wn="climb%2:38:06::" synset="climb ascend" gloss="slope upward"/>
+<sense id="770003" source="ws" synset="climb creep twine" gloss="twist around tall support ivy climbed balcony"/>
+<sense id="770004" source="ws" wn="climb%2:30:03::" synset="climb" gloss="strive become important wealthier successful become"/>
+<sense id="770005" source="ws" wn="climb%2:38:00::" synset="climb ascend" gloss="go ascend let s climb hill"/>
+</lexelt>
+
+
+<lexelt item="decide.v">
+<sense id="1067501" source="ws" wn="decide%2:31:01::" synset="decide conclude determine negotiate resolve settle solve" gloss="arrive conclusion settlement decided our dispute"/>
+<sense id="1067502" source="ws" wn="decide%2:31:06::" synset="decide conclude determine finish resolve terminate" gloss="bring definite end game decided shot final second"/>
+<sense id="1067503" source="ws" wn="decide%2:31:00::" synset="decide choose determine resolve settle" gloss="make one s mind something resolve do something"/>
+<sense id="1067504" source="ws" wn="decide%2:31:01::" synset="decide arbitrate judge settle" gloss="resolve conflict dispute"/>
+</lexelt>
+
+
+<lexelt item="degree.n">
+<sense id="degree%1:07:00::" source="wn" synset="degree grade level " gloss="position scale intensity amount quality: moderate degree intelligence high level care required matter degree"/>
+<sense id="degree%1:07:01::" source="wn" synset="degree " gloss="seriousness something e g burn crime murder second degree second degree burn"/>
+<sense id="degree%1:09:00::" source="wn" synset="degree " gloss="highest power term variable"/>
+<sense id="degree%1:10:00::" source="wn" synset="academic_degree degree " gloss="award conferred college university signifying recipient satisfactorily completed course study earned degree princeton summa cum laude"/>
+<sense id="degree%1:23:00::" source="wn" synset="degree arcdegree " gloss="measure for arcs angles 360 degrees circle"/>
+<sense id="degree%1:23:03::" source="wn" synset="degree " gloss="unit temperature specified scale game played spite 40-degree temperature"/>
+<sense id="degree%1:26:01::" source="wn" synset="degree level stage point " gloss="specific identifiable position continuum series especially process remarkable degree frankness what stage social sciences?"/>
+</lexelt>
+
+
+<lexelt item="difference.n">
+<sense id="difference%1:07:00::" source="wn" synset="difference " gloss="quality unlike dissimilar: differences jazz rock"/>
+<sense id="difference%1:10:00::" source="wn" synset="dispute difference difference_of_opinion conflict " gloss="disagreement argument something important dispute with wife irreconcilable differences familiar conflict republicans democrats"/>
+<sense id="difference%1:11:00::" source="wn" synset="deviation divergence departure difference " gloss="variation deviates standard norm deviation mean"/>
+<sense id="difference%1:23:00::" source="wn" synset="remainder difference " gloss="number remains subtraction number added subtrahend gives minuend"/>
+<sense id="difference%1:24:00::" source="wn" synset="difference " gloss="significant change difference amazing support real difference"/>
+</lexelt>
+
+
+<lexelt item="different.a">
+<sense id="different%3:00:00::" source="wn" synset="different " gloss="unlike nature quality form degree took different approaches problem came different conclusion different parts country different sides issue this meeting different earlier one"/>
+<sense id="different%3:00:02::" source="wn" synset="unlike dissimilar different " gloss="like marked dissimilarity for twins unlike people profoundly different"/>
+<sense id="different%5:00:00:other:00" source="wn" synset="another(a) different " gloss="distinctly separate first s another different issue altogether"/>
+<sense id="different%5:00:00:unusual:00" source="wn" synset="different " gloss="differing others ordinary advertising strives continually different this new music certainly different i don t really like"/>
+<sense id="different%5:00:01:other:00" source="wn" synset="different " gloss="distinct separate each interviewed different members community"/>
+</lexelt>
+
+
+<lexelt item="difficulty.n">
+<sense id="difficulty%1:04:00::" source="wn" synset="trouble difficulty " gloss="effort inconvenient i went lot trouble won without any trouble difficulty walking finished test with great difficulty"/>
+<sense id="difficulty%1:07:00::" source="wn" synset="difficulty difficultness " gloss="quality difficult agreed difficulty climb"/>
+<sense id="difficulty%1:09:02::" source="wn" synset="difficulty " gloss="factor causing trouble achieving positive result tending produce negative result serious difficulties encountered obtaining pure reagent"/>
+<sense id="difficulty%1:26:00::" source="wn" synset="difficulty " gloss="situation condition almost beyond one s ability deal with requiring great effort bear overcome: grappling with financial difficulties"/>
+</lexelt>
+
+
+<lexelt item="disc.n">
+<sense id="disc%1:06:00::" source="wn" synset="disk disc " gloss="thin flat circular plate"/>
+<sense id="disc%1:06:01::" source="wn" synset="phonograph_record phonograph_recording record disk disc platter " gloss="sound recording consisting disc with continuous grooves formerly used reproduce music rotating while phonograph needle tracked grooves"/>
+<sense id="disc%1:06:03::" source="wn" synset="magnetic_disk magnetic_disc disk disc " gloss="computer science memory device consisting flat disk covered with magnetic coating stored"/>
+<sense id="disc%1:25:00::" source="wn" synset="disk disc saucer " gloss="something with round shape like flat circular plate"/>
+</lexelt>
+
+
+<lexelt item="eat.v">
+<sense id="1297001" source="ws" wn="eat%2:34:00::" synset="eat consume ingest swallow" gloss="consume food mouth"/>
+<sense id="1297002" source="ws" wn="eat%2:30:00::" synset="eat corrode deteriorate wear" gloss="destroy wearing away corrode rust eats metal"/>
+<sense id="1297003" source="ws" wn="eat%2:34:13::" synset="eat consume devour swallow" gloss="ravage consume manner eating budget eaten unexpected expenses"/>
+<sense id="1297004" source="ws" wn="eat%2:37:00::" synset="eat bother bug gnaw trouble" gloss="bother disturb what s eating"/>
+<sense id="1297005" source="ws" synset="eat" gloss="informal bear cost eat unpaid bills"/>
+<sense id="1297006" source="ws" wn="eat%2:34:00::" synset="eat fare feed sup" gloss="partake food"/>
+<sense id="1297007" source="ws" wn="eat%2:30:00::" synset="eat corrode deteriorate" gloss="corrode rust ate metal"/>
+</lexelt>
+
+
+<lexelt item="encounter.v">
+<sense id="1353101" source="ws" wn="encounter%2:38:00::;encounter%2:40:00::" synset="encounter bump_into come_across run_across" gloss="meet upon esp suddenly chance"/>
+<sense id="1353102" source="ws" wn="encounter%2:33:00::" synset="encounter battle engage meet" gloss="meet confront battle conflict"/>
+<sense id="1353103" source="ws" wn="encounter%2:42:00::" synset="encounter hit" gloss="meet with esp unexpectedly i encountered unforeseen difficulties"/>
+<sense id="1353104" source="ws" wn="encounter%2:42:02::" synset="encounter meet" gloss="meet esp conflict unexpectedly"/>
+</lexelt>
+
+
+<lexelt item="expect.v">
+<sense id="1440301" source="ws" wn="expect%2:31:00::;expect%2:31:01::" synset="expect communicate convey" gloss="hope for look forward with reason believe fulfillment i expect him noon i expect success"/>
+<sense id="1440302" source="ws" wn="expect%2:31:05::" synset="expect guess presume reckon" gloss="informal guess suppose i expect would like drink water hard exercise"/>
+<sense id="1440303" source="ws" wn="expect%2:29:00::;expect%2:29:02::" synset="expect" gloss="pregnant expecting"/>
+</lexelt>
+
+
+<lexelt item="express.v">
+<sense id="1446801" source="ws" wn="express%2:32:01::" synset="express communicate convey" gloss="make ideas thoughts feelings known saying writing creating art works"/>
+<sense id="1446802" source="ws" wn="express%2:32:00::" synset="express communicate convey verbalize voice" gloss="make known thoughts feelings oneself"/>
+<sense id="1446803" source="ws" wn="express%2:32:09::" synset="express" gloss="send rapid transport"/>
+<sense id="1446804" source="ws" wn="express%2:32:01::" synset="express evince reveal show" gloss="show make manifest"/>
+</lexelt>
+
+
+<lexelt item="hear.v">
+<sense id="1892101" source="ws" wn="hear%2:39:00::" synset="hear" gloss="perceive with ears"/>
+<sense id="1892102" source="ws" wn="hear%2:31:00::" synset="hear learn" gloss="informed learn i heard coming back town"/>
+<sense id="1892103" source="ws" wn="hear%2:39:05::" synset="hear listen_to" gloss="listen carefully really hear what told"/>
+<sense id="1892104" source="ws" wn="hear%2:41:00::" synset="hear" gloss="give formal audience esp court law judge wouldn t hear our case"/>
+<sense id="1892105" source="ws" synset="hear" gloss="ability perceive sound"/>
+<sense id="1892106" source="ws" wn="hear%2:39:01::" synset="hear" gloss="receive greetings another heard sister yesterday"/>
+<sense id="1892107" source="ws" synset="hear agree_to consent_to stand_for toleratw" gloss="listen with agreement consent usu fol would hear my paying check"/>
+</lexelt>
+
+
+<lexelt item="hot.a">
+<sense id="hot%3:00:01::" source="wn" synset="hot " gloss="used physical heat having high higher desirable temperature giving heat feeling causing sensation heat burning hot stove hot water hot august day hot stuffy room s hot tired hot forehead"/>
+<sense id="hot%3:00:02::" source="wn" synset="hot " gloss="extended meanings especially psychological heat marked intensity vehemence especially passion enthusiasm hot temper hot topic hot new book hot love affair hot argument"/>
+<sense id="hot%5:00:00:active:01" source="wn" synset="hot " gloss="informal marked excited activity hot week stock market"/>
+<sense id="hot%5:00:00:charged:00" source="wn" synset="hot live " gloss="electricity charged energized with electricity hot wire live wire"/>
+<sense id="hot%5:00:00:eager:00" source="wn" synset="hot " gloss="having showing great eagerness enthusiasm hot for travel"/>
+<sense id="hot%5:00:00:fast:01" source="wn" synset="blistering hot red-hot " gloss="fast blistering pace got hot start hot pursuit red-hot line drive"/>
+<sense id="hot%5:00:00:fresh:01" source="wn" synset="hot " gloss="newly hot scent"/>
+<sense id="hot%5:00:00:good:01" source="wn" synset="hot " gloss="good often used negative s hot math hot history"/>
+<sense id="hot%5:00:00:illegal:00" source="wn" synset="hot " gloss="informal recently stolen smuggled hot merchandise hot car"/>
+<sense id="hot%5:00:00:lucky:00" source="wn" synset="hot " gloss="having bringing unusually good luck hot craps dice hot tonight"/>
+<sense id="hot%5:00:00:near:00" source="wn" synset="warm hot " gloss="seeker object sought re getting warm hot trail"/>
+<sense id="hot%5:00:00:new:00" source="wn" synset="hot red-hot " gloss="newest recent news hot press red-hot"/>
+<sense id="hot%5:00:00:popular:00" source="wn" synset="hot " gloss="informal popular successful one hot young talents cabbage patch dolls hot last season"/>
+<sense id="hot%5:00:00:pungent:00" source="wn" synset="gingery hot peppery spicy " gloss="having piquant burning taste spices peppers gingery chinese food hot peppers hot curry corn chips with peppery salsa spicy tomato sauce"/>
+<sense id="hot%5:00:00:radioactive:00" source="wn" synset="hot " gloss="having dealing with dangerously high levels radioactivity hot fuel rods hot laboratory"/>
+<sense id="hot%5:00:00:sexy:00" source="wn" synset="hot " gloss="sexually excited exciting hot for hot pants"/>
+<sense id="hot%5:00:00:skilled:00" source="wn" synset="hot " gloss="informal performed performing with unusually great skill daring energy hot drummer s hot tonight"/>
+<sense id="hot%5:00:00:unpleasant:00" source="wn" synset="hot " gloss="unpleasant even dangerous make hot for him hot seat hot water"/>
+<sense id="hot%5:00:00:violent:00" source="wn" synset="hot raging " gloss="characterized violent forceful activity movement intense fighting hot heavy hot engagement raging battle river raging torrent"/>
+<sense id="hot%5:00:00:wanted:00" source="wn" synset="hot " gloss="wanted police hot suspect"/>
+<sense id="hot%5:00:00:warm:03" source="wn" synset="hot " gloss="color bold intense hot pink"/>
+<sense id="hot%5:00:02:fast:01" source="wn" synset="hot " gloss="capable quick response great speed hot sports car"/>
+</lexelt>
+
+
+<lexelt item="image.n">
+<sense id="image%1:06:00::" source="wn" synset="picture image icon ikon " gloss="visual representation object scene person produced surface showed pictures wedding movie series images projected rapidly eye integrates"/>
+<sense id="image%1:06:01::" source="wn" synset="effigy image simulacrum " gloss="representation person especially form sculpture coin bears effigy lincoln emperor s tomb image carved stone"/>
+<sense id="image%1:07:00::" source="wn" synset="persona image " gloss="jungian psychology personal facade one presents world public image fragile humpty dumpty"/>
+<sense id="image%1:09:00::" source="wn" synset="image mental_image " gloss="iconic mental representation imagination forced images upon awful contemplate"/>
+<sense id="image%1:09:02::" source="wn" synset="prototype paradigm epitome image " gloss="standard typical example prototype good breeding provided america with image good father"/>
+<sense id="image%1:10:00::" source="wn" synset="trope figure_of_speech figure image " gloss="language used figurative nonliteral sense"/>
+<sense id="image%1:18:00::" source="wn" synset="double image look-alike " gloss="someone closely resembles famous person especially actor gingrich s double s image mother"/>
+</lexelt>
+
+
+<lexelt item="important.a">
+<sense id="important%3:00:00::" source="wn" synset="important of_import " gloss="great significance value important people important questions day"/>
+<sense id="important%3:00:02::" source="wn" synset="crucial important " gloss="extreme importance vital resolution crisis crucial moment career crucial election crucial issue for women"/>
+<sense id="important%3:00:04::" source="wn" synset="significant important " gloss="important effect meaning significant change tax laws significant change constitution significant contribution significant statistically significant"/>
+<sense id="important%5:00:00:immodest:02" source="wn" synset="important " gloss="having suggesting consciousness high position recited decree with important air took long important strides direction office"/>
+<sense id="important%5:00:00:influential:00" source="wn" synset="authoritative important " gloss="having authority ascendancy influence important official captain s authoritative manner"/>
+</lexelt>
+
+
+<lexelt item="interest.n">
+<sense id="interest%1:04:01::" source="wn" synset="pastime interest " gloss="subject pursuit occupies one s time thoughts usually pleasantly sailing favorite pastime main pastime gambling counts reading interests criticized boy for limited interests"/>
+<sense id="interest%1:07:01::" source="wn" synset="sake interest " gloss="reason for wanting something for your sake died for sake country interest safety common interest"/>
+<sense id="interest%1:07:02::" source="wn" synset="interest interestingness " gloss="power attracting holding one s interest unusual exciting etc said nothing great interest primary colors add interest room"/>
+<sense id="interest%1:09:00::" source="wn" synset="interest involvement " gloss="sense concern with curiosity someone something interest music"/>
+<sense id="interest%1:14:00::" source="wn" synset="interest interest_group " gloss="usually plural social group whose members control field activity common aims iron interests stepped production"/>
+<sense id="interest%1:21:00::" source="wn" synset="interest " gloss="fixed charge for borrowing money usually percentage amount borrowed much interest do pay your mortgage?"/>
+<sense id="interest%1:21:03::" source="wn" synset="interest stake " gloss="right legal share something financial involvement with something interests world stake company s future"/>
+</lexelt>
+
+
+<lexelt item="judgment.n">
+<sense id="judgment%1:04:00::" source="wn" synset="judgment judgement judicial_decision " gloss="law determination court competent jurisdiction matters submitted"/>
+<sense id="judgment%1:04:02::" source="wn" synset="judgment judgement assessment " gloss="act judging assessing person situation event criticized my judgment contestants"/>
+<sense id="judgment%1:07:00::" source="wn" synset="judgment judgement sound_judgment sound_judgement perspicacity " gloss="capacity assess situations circumstances shrewdly draw sound conclusions"/>
+<sense id="judgment%1:09:00::" source="wn" synset="judgment judgement judging " gloss="cognitive process reaching decision drawing conclusions"/>
+<sense id="judgment%1:09:01::" source="wn" synset="sagacity sagaciousness judgment judgement discernment " gloss="ability make good judgments"/>
+<sense id="judgment%1:09:04::" source="wn" synset="judgment judgement mind " gloss="opinion formed judging something reluctant make judgment known changed mind"/>
+<sense id="judgment%1:10:00::" source="wn" synset="judgment judgement opinion " gloss="legal document stating reasons for judicial decision opinions usually written single judge"/>
+</lexelt>
+
+
+<lexelt item="lose.v">
+<sense id="2439901" source="ws" wn="lose%2:40:02::;lose%2:35:00::" synset="lose misplace" gloss="longer possess unable find misplace i lost my overshoes"/>
+<sense id="2439902" source="ws" wn="lose%2:40:02::" synset="lose" gloss="fail keep possession i just lost quarter this candy machine"/>
+<sense id="2439903" source="ws" wn="lose%2:33:00::" synset="lose" gloss="fail win lost contest"/>
+<sense id="2439904" source="ws" wn="lose%2:40:02::" synset="lose" gloss="fail maintain unable keep lost health pride"/>
+<sense id="2439905" source="ws" wn="lose%2:37:00::" synset="lose" gloss="suffer loss death lost mother last week"/>
+<sense id="2439906" source="ws" synset="lose squander waste" gloss="fail take advantage waste this argument causing lose time"/>
+<sense id="2439907" source="ws" synset="lose" gloss="go astray i lost my way"/>
+<sense id="2439908" source="ws" wn="lose%2:33:00::" synset="lose" gloss="experience defeat loss"/>
+<sense id="2439909" source="ws" wn="lose%2:30:03::" synset="lose" gloss="diminish effectiveness particular way tale loses retelling"/>
+</lexelt>
+
+
+<lexelt item="mean.v">
+<sense id="2555501" source="ws" wn="mean%2:32:01::" synset="mean intend" gloss="goal purpose intend i mean leave soon"/>
+<sense id="2555502" source="ws" wn="mean%2:31:01::" synset="mean" gloss="intend denote express what i mean mortal"/>
+<sense id="2555503" source="ws" wn="mean%2:32:03::" synset="mean signify" gloss="words signify word tomorrow means next day"/>
+<sense id="2555504" source="ws" wn="mean%2:31:05::" synset="mean destine intend" gloss="intend for particular purpose end meant for priesthood"/>
+<sense id="2555505" source="ws" wn="mean%2:42:00::" synset="mean" gloss="cause result fire means unlikely return"/>
+<sense id="2555506" source="ws" wn="mean%2:42:03::" synset="mean" gloss="specified degree significance importance means little"/>
+<sense id="2555507" source="ws" wn="mean%2:31:00::" synset="mean" gloss="intentions disposed means well even though acts don t show"/>
+</lexelt>
+
+
+<lexelt item="miss.v">
+<sense id="2644301" source="ws" wn="miss%2:39:00::" synset="miss" gloss="fail hit catch reach cross any way touch contact particular object missed ball i missed plane"/>
+<sense id="2644302" source="ws" wn="miss%2:38:00::;miss%2:35:00::" synset="miss" gloss="fail hear understand otherwise acknowledge misses point"/>
+<sense id="2644303" source="ws" wn="miss%2:42:01::" synset="miss" gloss="fail perform attend otherwise experience i missed concert"/>
+<sense id="2644304" source="ws" synset="miss muff pass_up" gloss="fail achieve attain missed good chance"/>
+<sense id="2644305" source="ws" wn="miss%2:32:00::" synset="miss espace avoid" gloss="avoid escape evade car missed tree"/>
+<sense id="2644306" source="ws" wn="miss%2:37:00::" synset="miss" gloss="feel sad lonely absence missed friend"/>
+<sense id="2644307" source="ws" wn="miss%2:39:00::" synset="miss" gloss="fail hit catch otherwise touch something target ball object"/>
+<sense id="2644308" source="ws" wn="miss%2:33:00::" synset="miss bomb fail flop" gloss="fail succeed"/>
+</lexelt>
+
+
+<lexelt item="note.v">
+<sense id="2822011" source="ws" wn="note%2:39:00::;note%2:39:02::" synset="note mark notice observe remark" gloss="perceive observe attentively"/>
+<sense id="2822012" source="ws" wn="note%2:32:01::" synset="note record register" gloss="make written record reminder"/>
+<sense id="2822013" source="ws" wn="note%2:32:00::" synset="note comment mention observe remark" gloss="mention remark noted liked wallpaper"/>
+</lexelt>
+
+
+<lexelt item="operate.v">
+<sense id="2893201" source="ws" wn="operate%2:35:03::" synset="operate function go run work" gloss="function correct effective manner machine"/>
+<sense id="2893202" source="ws" wn="operate%2:41:00::" synset="operate" gloss="process action carry affairs"/>
+<sense id="2893203" source="ws" wn="operate%2:29:00::" synset="operate" gloss="perform surgical procedure usu fol"/>
+<sense id="2893204" source="ws" wn="operate%2:33:00::" synset="operate finagle machinate" gloss="informal act with skillful deception improve one s own situation"/>
+<sense id="2893205" source="ws" wn="operate%2:35:00::" synset="operate run work" gloss="control functioning machine like"/>
+</lexelt>
+
+
+<lexelt item="organization.n">
+<sense id="organization%1:04:00::" source="wn" synset="organization organisation " gloss="act organizing business business-related activity brought supervise organization new department"/>
+<sense id="organization%1:04:01::" source="wn" synset="organization organisation arrangement " gloss="activity result distributing disposing persons things properly methodically this new organization container much smaller"/>
+<sense id="organization%1:04:02::" source="wn" synset="constitution establishment formation organization organisation " gloss="act forming something constitution pta group still remembers establishment hospital"/>
+<sense id="organization%1:07:00::" source="wn" synset="organization organisation system " gloss="ordered manner orderliness virtue methodical well organized compulsive organization endearing quality t do unless establish system around"/>
+<sense id="organization%1:09:00::" source="wn" synset="arrangement organization organisation system " gloss="organized structure for arranging classifying changed arrangement topics facts familiar organization original tried understand system classification"/>
+<sense id="organization%1:14:00::" source="wn" synset="organization organisation " gloss="group people work together"/>
+<sense id="organization%1:14:01::" source="wn" synset="administration governance establishment brass organization organisation " gloss="persons committees departments etc make governing body administer something claims present administration corrupt governance association responsible members quickly recognized member establishment"/>
+</lexelt>
+
+
+<lexelt item="paper.n">
+<sense id="paper%1:06:00::" source="wn" synset="newspaper paper " gloss="newspaper physical object: began rain covered head with newspaper"/>
+<sense id="paper%1:10:00::" source="wn" synset="paper " gloss="medium for written communication notion office running without paper absurd"/>
+<sense id="paper%1:10:01::" source="wn" synset="composition paper report theme " gloss="essay especially one written assignment got composition"/>
+<sense id="paper%1:10:02::" source="wn" synset="paper " gloss="scholarly article describing results observations stating hypotheses written scientific papers"/>
+<sense id="paper%1:10:03::" source="wn" synset="newspaper paper " gloss="daily weekly publication folded sheets contains news articles advertisements read newspaper breakfast"/>
+<sense id="paper%1:14:00::" source="wn" synset="newspaper paper newspaper_publisher " gloss="business firm publishes newspapers murdoch owns newspapers"/>
+<sense id="paper%1:27:00::" source="wn" synset="paper " gloss="material cellulose pulp derived mainly wood rags certain grasses"/>
+</lexelt>
+
+
+<lexelt item="party.n">
+<sense id="party%1:11:00::" source="wn" synset="party " gloss="occasion people assemble for social interaction entertainment planned party celebrate bastille day"/>
+<sense id="party%1:14:00::" source="wn" synset="party " gloss="group people gathered together for pleasure joined party dinner"/>
+<sense id="party%1:14:01::" source="wn" synset="party political_party " gloss="organization gain political power 1992 perot tried organize third party national level"/>
+<sense id="party%1:14:02::" source="wn" synset="party company " gloss="band people associated temporarily activity organized party search for food company cooks walked kitchen"/>
+<sense id="party%1:18:00::" source="wn" synset="party " gloss="person involved legal proceedings party first part"/>
+</lexelt>
+
+
+<lexelt item="performance.n">
+<sense id="performance%1:04:00::" source="wn" synset="performance execution carrying_out carrying_into_action " gloss="act performing something successfully using knowledge distinguished merely possessing criticised performance mayor experience generally improves performance"/>
+<sense id="performance%1:04:01::" source="wn" synset="performance " gloss="act presenting play piece music entertainment congratulated him performance rehearsal inspired performance mozart s c minor concerto"/>
+<sense id="performance%1:04:03::" source="wn" synset="performance " gloss="any recognized accomplishment admired performance stress roger maris powered four home runs one game performance merits awe"/>
+<sense id="performance%1:10:00::" source="wn" synset="performance public_presentation " gloss="dramatic musical entertainment listened ten different performances play ran for 100 performances frequent performances symphony testify popularity"/>
+<sense id="performance%1:22:00::" source="wn" synset="operation functioning performance " gloss="process manner functioning operating power engine determine operation plane s operation high winds compared cooking performance each oven jet s performance conformed high standards"/>
+</lexelt>
+
+
+<lexelt item="plan.n">
+<sense id="plan%1:06:00::" source="wn" synset="plan architectural_plan " gloss="scale drawing structure plans for city hall file"/>
+<sense id="plan%1:09:00::" source="wn" synset="plan program programme " gloss="series steps carried out goals accomplished drew six-step plan discussed plans for new bond issue"/>
+<sense id="plan%1:09:01::" source="wn" synset="design plan " gloss="arrangement scheme awkward design keyboard operation difficult excellent design for living plan for seating guests"/>
+</lexelt>
+
+
+<lexelt item="play.v">
+<sense id="3165210" source="ws" wn="play%2:36:02::" synset="play act enact perform personate portray" gloss="act part drama played falstaff"/>
+<sense id="3165211" source="ws" wn="play%2:29:01::;play%2:36:06::" synset="play act affect feign" gloss="act role real life playing injured wife"/>
+<sense id="3165212" source="ws" wn="play%2:36:03::" synset="play" gloss="perform place places our band played midwest"/>
+<sense id="3165213" source="ws" wn="play%2:33:00::" synset="play compete_in participate_in" gloss="take part game contest let s play soccer"/>
+<sense id="3165214" source="ws" wn="play%2:36:12::" synset="play" gloss="make music with instrument"/>
+<sense id="3165215" source="ws" wn="play%2:34:13::" synset="play exploit use" gloss="manipulate for one s advantage usu fol played husband father"/>
+<sense id="3165216" source="ws" wn="play%2:29:04::" synset="play" gloss="control hooked fish"/>
+<sense id="3165217" source="ws" wn="play%2:41:00::;play%2:41:03::" synset="play disport sport" gloss="engage recreation fun"/>
+<sense id="3165218" source="ws" wn="play%2:33:00::" synset="play compete sport" gloss="engage sport game"/>
+<sense id="3165219" source="ws" wn="play%2:41:02::" synset="play conform" gloss="behave specified way doesn t play fair"/>
+<sense id="3165220" source="ws" wn="play%2:36:01::" synset="play" gloss="make music with instrument"/>
+<sense id="3165221" source="ws" wn="play%2:31:01::" synset="play dally trifle try" gloss="make toy another another without due regard for feelings simply playing with me"/>
+</lexelt>
+
+
+<lexelt item="produce.v">
+<sense id="3288301" source="ws" wn="produce%2:36:02::" synset="produce generate give make yield" gloss="bring yield"/>
+<sense id="3288302" source="ws" wn="produce%2:36:00::" synset="produce make manufacture" gloss="manufacture"/>
+<sense id="3288303" source="ws" synset="produce bear breed deliver" gloss="give birth"/>
+<sense id="3288304" source="ws" wn="produce%2:39:01::" synset="produce expose manifest present" gloss="bring forward view notice present reluctance produce partner s name"/>
+<sense id="3288305" source="ws" wn="produce%2:39:00::" synset="produce" gloss="organize present film play concert like for public entertainment"/>
+<sense id="3288306" source="ws" wn="produce%2:36:02::" synset="produce yield" gloss="cause create yield results esp usual expected results artist couldn t produce without encouragement"/>
+</lexelt>
+
+
+<lexelt item="provide.v">
+<sense id="3313901" source="ws" wn="provide%2:40:00::" synset="provide furnish purvey serve supply" gloss="supply furnish i ll provide with food"/>
+<sense id="3313902" source="ws" wn="provide%2:34:00::" synset="provide offer proffer tender" gloss="make available for afford group provides important service"/>
+<sense id="3313903" source="ws" wn="provide%2:32:00::" synset="provide" gloss="arrange specify beforehand this law provides speeders will fined"/>
+<sense id="3313904" source="ws" synset="provide prepare stock_up store_up" gloss="take precautionary action usu fol for village provided for harsh winter"/>
+<sense id="3313905" source="ws" wn="provide%2:34:00::" synset="provide attend deliver minister" gloss="supply necessities money often fol for provides for children"/>
+<sense id="3313906" source="ws" wn="provide%2:40:00::" synset="provide perform yield" gloss="make arrangement agreement condition system provides for free medical care"/>
+</lexelt>
+
+
+<lexelt item="receive.v">
+<sense id="3434801" source="ws" wn="receive%2:40:00::" synset="receive get" gloss="get take something sent offered"/>
+<sense id="3434802" source="ws" wn="receive%2:39:15::" synset="receive" gloss="accept something bestowed received degree last year"/>
+<sense id="3434803" source="ws" wn="receive%2:32:00::" synset="receive welcome" gloss="welcome receive guests often received him club member"/>
+<sense id="3434804" source="ws" wn="receive%2:39:03::" synset="receive sustain undergo" gloss="undergo experience received serious injury"/>
+<sense id="3434805" source="ws" wn="receive%2:39:00::" synset="receive find_out hear" gloss="find out received news"/>
+<sense id="3434806" source="ws" wn="receive%2:40:00::" synset="receive" gloss="accept get something"/>
+<sense id="3434807" source="ws" wn="receive%2:35:00::" synset="receive entertain" gloss="extend hospitality guests"/>
+<sense id="3434808" source="ws" wn="receive%2:30:00::" synset="receive" gloss="pick signals radio television"/>
+<sense id="3434809" source="ws" synset="receive" gloss="football play position one designated catch forward pass"/>
+</lexelt>
+
+
+<lexelt item="remain.v">
+<sense id="3477801" source="ws" wn="remain%2:30:00::" synset="remain abide dwell continue last persist stay" gloss="continue without change quality state"/>
+<sense id="3477802" source="ws" wn="remain%2:42:03::" synset="remain abide linger stay tarry" gloss="stay left same place others gone"/>
+<sense id="3477803" source="ws" wn="remain%2:42:05::" synset="remain survive" gloss="left still will win remains"/>
+</lexelt>
+
+<lexelt item="rule.v">
+<sense id="3597906" source="ws" wn="rule%2:41:00::" synset="rule govern" gloss="exert authority govern rules country"/>
+<sense id="3597907" source="ws" wn="rule%2:42:00::" synset="rule dominate" gloss="superiority within particular field area rules field racing"/>
+<sense id="3597908" source="ws" wn="rule%2:36:00::" synset="rule" gloss="make evenly spaced parallel lines piece paper surface"/>
+<sense id="3597910" source="ws" wn="rule%2:32:00::" synset="rule find" gloss="make specific decision ruling court law"/>
+<sense id="3597911" source="ws" wn="rule%2:42:00::" synset="rule dominate predominate prevail" gloss="pervasive dominant chaos rules"/>
+</lexelt>
+
+
+<lexelt item="shelter.n">
+<sense id="shelter%1:06:00::" source="wn" synset="shelter " gloss="structure provides privacy protection danger"/>
+<sense id="shelter%1:06:01::" source="wn" synset="shelter " gloss="protective covering provides protection weather"/>
+<sense id="shelter%1:21:00::" source="wn" synset="tax_shelter shelter " gloss="way organizing business reduce taxes must pay"/>
+<sense id="shelter%1:26:00::" source="wn" synset="protection shelter " gloss="condition protected huddled together for protection enjoyed sense peace protection new home"/>
+</lexelt>
+
+
+<lexelt item="simple.a">
+<sense id="simple%3:00:01::" source="wn" synset="simple unsubdivided " gloss="botany leaf shapes leaves having divisions subdivisions"/>
+<sense id="simple%3:00:02::" source="wn" synset="simple " gloss="having few parts complex complicated involved simple problem simple mechanisms simple design simple substance"/>
+<sense id="simple%5:00:00:easy:01" source="wn" synset="elementary simple uncomplicated unproblematic " gloss="easy involved complicated elementary problem statistics elementary my dear watson simple game uncomplicated solution problem"/>
+<sense id="simple%5:00:00:naive:00" source="wn" synset="childlike wide-eyed dewey-eyed simple " gloss="exhibiting childlike simplicity credulity childlike trust dewey-eyed innocence simple courtesy"/>
+<sense id="simple%5:00:00:plain:01" source="wn" synset="simple " gloss="elaborate style unornamented simple country schoolhouse black dress--simple austerity"/>
+<sense id="simple%5:00:00:retarded:00" source="wn" synset="dim-witted half-witted simple simple-minded " gloss="lacking mental capacity devoid subtlety"/>
+<sense id="simple%5:00:02:plain:01" source="wn" synset="bare(a) mere(a) simple(a) " gloss="apart anything else without additions modifications bare facts shocked mere idea simple passage time enough simple truth"/>
+</lexelt>
+
+
+<lexelt item="smell.v">
+<sense id="3893501" source="ws" wn="smell%2:39:01::" synset="smell nose scent" gloss="perceive odor means nose"/>
+<sense id="3893502" source="ws" wn="smell%2:39:01::" synset="smell sniff snuff" gloss="examine using sense smell smelled soup ready"/>
+<sense id="3893503" source="ws" synset="smell sense discern detect sniff" gloss="detect discern smelled dishonesty conduct"/>
+<sense id="3893505" source="ws" wn="smell%2:39:00::" synset="smell" gloss="give odor fragrance"/>
+<sense id="3893507" source="ws" wn="smell%2:39:02::" synset="smell reek stink" gloss="give unpleasant odor stink"/>
+<sense id="3893508" source="ws" wn="smell%2:39:00::" synset="smell" gloss="lingering trace usu fol room smelled smoke"/>
+<sense id="3893509" source="ws" synset="smell sniff" gloss="investigate usu fol around let s smell around for evidence"/>
+</lexelt>
+
+
+<lexelt item="solid.a">
+<sense id="solid%3:00:01::" source="wn" synset="solid " gloss="definite shape volume firm neither liquid gaseous ice water solid state"/>
+<sense id="solid%3:00:02::" source="wn" synset="solid " gloss="entirely one substance with holes inside solid silver solid block wood"/>
+<sense id="solid%5:00:00:cubic:00" source="wn" synset="solid " gloss="having three dimensions solid object"/>
+<sense id="solid%5:00:00:frozen:00" source="wn" synset="solid " gloss="turned covered with thick ice brook frozen solid"/>
+<sense id="solid%5:00:00:good:01" source="wn" synset="solid " gloss="good substantial quality solid comfort solid base hit"/>
+<sense id="solid%5:00:00:hard:01" source="wn" synset="firm solid " gloss="soft yielding pressure firm mattress snow firm underfoot solid ground"/>
+<sense id="solid%5:00:00:homogeneous:00" source="wn" synset="solid " gloss="one substance character throughout solid gold solid color carved out solid rock"/>
+<sense id="solid%5:00:00:honorable:00" source="wn" synset="noble solid upstanding worthy " gloss="having high moral qualities noble spirit solid citizen upstanding man worthy successor"/>
+<sense id="solid%5:00:00:opaque:00" source="wn" synset="solid " gloss="incapable solid blackness"/>
+<sense id="solid%5:00:00:plain:02" source="wn" synset="solid self-colored self-coloured " gloss="entirely single color throughout solid fabric"/>
+<sense id="solid%5:00:00:sound:01" source="wn" synset="solid strong substantial " gloss="good quality condition solidly built solid foundation substantial timber buildings"/>
+<sense id="solid%5:00:00:unbroken:02" source="wn" synset="solid " gloss="uninterrupted space having gaps breaks solid line across page solid sheets water"/>
+<sense id="solid%5:00:00:undiversified:00" source="wn" synset="solid unanimous " gloss="acting together single undiversified whole solid voting bloc"/>
+<sense id="solid%5:00:00:wholesome:00" source="wn" synset="hearty satisfying solid substantial " gloss="providing abundant nourishment hearty meal good solid food ate substantial breakfast"/>
+</lexelt>
+
+
+<lexelt item="sort.n">
+<sense id="sort%1:07:00::" source="wn" synset="sort " gloss="approximate definition example wore sort magenta dress served creamy sort dessert thing"/>
+<sense id="sort%1:09:00::" source="wn" synset="kind sort form variety " gloss="category things distinguished common characteristic quality sculpture form art what kinds desserts there?"/>
+<sense id="sort%1:18:00::" source="wn" synset="sort " gloss="person particular character nature what sort person he? s good sort"/>
+<sense id="sort%1:22:00::" source="wn" synset="sort sorting " gloss="operation segregates items groups according specified criterion bottleneck mail delivery process sorting"/>
+</lexelt>
+
+
+<lexelt item="source.n">
+<sense id="source%1:06:00::" source="wn" synset="source " gloss="facility something available"/>
+<sense id="source%1:09:00::" source="wn" synset="source seed germ " gloss="anything provides inspiration for work"/>
+<sense id="source%1:10:00::" source="wn" synset="source " gloss="document organization obtained reporter two sources for story"/>
+<sense id="source%1:10:01::" source="wn" synset="reference source " gloss="publication passage publication referred carried armful references back desk spent hours looking for source quotation"/>
+<sense id="source%1:15:00::" source="wn" synset="beginning origin root rootage source " gloss="place something begins springs italian beginning renaissance jupiter origin radiation pittsburgh source ohio river communism s russian root"/>
+<sense id="source%1:18:00::" source="wn" synset="generator source author " gloss="someone originates causes initiates something generator complaints"/>
+<sense id="source%1:18:01::" source="wn" synset="informant source " gloss="person supplies"/>
+</lexelt>
+
+
+<lexelt item="suspend.v">
+<sense id="4155301" source="ws" wn="suspend%2:35:00::" synset="suspend hang" gloss="hang something higher position"/>
+<sense id="4155302" source="ws" wn="suspend%2:30:02::" synset="suspend intermit interrupt" gloss="cause stop for period time game suspended until cleared floor"/>
+<sense id="4155303" source="ws" wn="suspend%2:30:00::" synset="suspend defer delay postpone" gloss="put till defer will suspend judgment case"/>
+<sense id="4155304" source="ws" wn="suspend%2:30:02::" synset="suspend" gloss="cause temporarily ineffective suspend usual rules"/>
+<sense id="4155305" source="ws" wn="suspend%2:41:00::" synset="suspend expel" gloss="exclude for disciplinary reasons principal suspended john school for fighting"/>
+<sense id="4155306" source="ws" wn="suspend%2:30:01::" synset="suspend" gloss="cause remain motionless undissolved unattached fluid medium air water"/>
+<sense id="4155307" source="ws" wn="suspend%2:30:00::" synset="suspend intermit pause" gloss="cease activity for period time"/>
+</lexelt>
+
+
+<lexelt item="talk.v">
+<sense id="4198501" source="ws" wn="talk%2:32:01::;talk%2:32:03::" synset="talk converse speak" gloss="communicate spoken words discuss talked literary theory baby talk yet"/>
+<sense id="4198502" source="ws" synset="talk gossip whisper" gloss="gossip whole town talking"/>
+<sense id="4198503" source="ws" wn="talk%2:32:00::" synset="talk chat chitchat gab palaver" gloss="chatter idly incessantly"/>
+<sense id="4198504" source="ws" wn="talk%2:32:05::" synset="talk declaim discourse lecture speak" gloss="give speech lecture"/>
+<sense id="4198505" source="ws" wn="talk%2:32:02::;talk%2:32:06::" synset="talk tell" gloss="disclose confidential secret even torture refused talk"/>
+<sense id="4198506" source="ws" wn="talk%2:32:00::" synset="talk articulate pronounce say speak tell utter" gloss="articulate words"/>
+<sense id="4198507" source="ws" wn="talk%2:32:03::" synset="talk speak" gloss="speak particular language dialect"/>
+<sense id="4198508" source="ws" wn="talk%2:32:01::" synset="talk address discuss" gloss="discuss talked finance meeting"/>
+<sense id="4198509" source="ws" synset="talk" gloss="influence convince talked buying car"/>
+</lexelt>
+
+
+<lexelt item="treat.v">
+<sense id="4380101" source="ws" wn="treat%2:41:00::" synset="treat relate_to" gloss="behave toward someone particular way"/>
+<sense id="4380102" source="ws" wn="treat%2:41:00::" synset="treat deal_with handle" gloss="deal with represent particular way"/>
+<sense id="4380103" source="ws" wn="treat%2:41:00::" synset="treat address discuss" gloss="discuss speech writing treated themes talk"/>
+<sense id="4380104" source="ws" wn="treat%2:29:00::" synset="treat cure heal relieve remedy" gloss="relieve cure disease illness treated cold with vitamins"/>
+<sense id="4380105" source="ws" wn="treat%2:29:00::" synset="treat" gloss="give medical attention doctor treats twenty patients day"/>
+<sense id="4380106" source="ws" wn="treat%2:34:00::" synset="treat" gloss="offer food drink entertainment one s own expense"/>
+<sense id="4380107" source="ws" wn="treat%2:30:01::" synset="treat" gloss="act upon order achieve desired result treated wood with varnish"/>
+<sense id="4380108" source="ws" wn="treat%2:32:00::" synset="treat deal" gloss="deal with subject topic theme speech writing often fol essay treats politics"/>
+<sense id="4380109" source="ws" wn="treat%2:40:00::" synset="treat buy pay" gloss="take responsibility for cost providing food drink entertainment another"/>
+</lexelt>
+
+
+<lexelt item="use.v">
+<sense id="4530701" source="ws" wn="use%2:34:01::" synset="use employ utilize" gloss="bring service employ esp habitually i computer do my homework"/>
+<sense id="4530702" source="ws" wn="use%2:34:00::" synset="use consume expend spend" gloss="expend consume used last dollar buy bread"/>
+<sense id="4530703" source="ws" wn="use%2:41:14::" synset="use exploit take_advantage_of" gloss="employ for selfish motives exploit used friends get what wanted"/>
+<sense id="4530704" source="ws" wn="use%2:34:02::" synset="use take" gloss="partake drugs using heroin him sick"/>
+<sense id="4530705" source="ws" wn="use%2:41:03::" synset="use" gloss="used past tense order show former habitual practice state fol used go shopping every saturday"/>
+</lexelt>
+
+
+<lexelt item="wash.v">
+<sense id="4636101" source="ws" wn="wash%2:35:00::" synset="wash clean" gloss="make clean immersing applying water liquid esp soap used washed cups"/>
+<sense id="4636102" source="ws" wn="wash%2:35:02::" synset="wash rinse" gloss="remove dirt matter immersing water liquid esp soap used washed stain out shirt"/>
+<sense id="4636103" source="ws" synset="wash carry" gloss="transport means moving liquid esp water waves wash shells onto beach"/>
+<sense id="4636104" source="ws" wn="wash%2:30:09::" synset="wash erode wear" gloss="erode destroy action moving water rain washed snowman"/>
+<sense id="4636105" source="ws" wn="wash%2:30:06::" synset="wash moisten wet" gloss="make wet moisten drench"/>
+<sense id="4636106" source="ws" wn="wash%2:42:12::" synset="wash absolve purify" gloss="rid guilt impurity"/>
+<sense id="4636107" source="ws" wn="wash%2:29:00::" synset="wash bathe shower" gloss="clean bathe oneself"/>
+<sense id="4636108" source="ws" wn="wash%2:30:05::" synset="wash clean" gloss="clean something with water liquid"/>
+<sense id="4636109" source="ws" wn="wash%2:42:00::" synset="wash" gloss="capable cleaned with water without shrinking fading this dress won t wash well"/>
+<sense id="4636110" source="ws" wn="wash%2:38:01::" synset="wash float drift" gloss="carried action moving water pail washed beach"/>
+<sense id="4636111" source="ws" wn="wash%2:30:05::" synset="wash erode wear" gloss="removed worn down action moving water often fol away paint road washed away rain"/>
+<sense id="4636112" source="ws" wn="wash%2:30:08::" synset="wash flow pour rush stream" gloss="flow rush waves washed dock"/>
+</lexelt>
+
+
+<lexelt item="watch.v">
+<sense id="4640501" source="ws" wn="watch%2:39:00::" synset="watch look regard" gloss="look closely with uninterrupted attention"/>
+<sense id="4640502" source="ws" synset="watch wait" gloss="look wait alert expectation usu fol for watch for our spring sales"/>
+<sense id="4640503" source="ws" wn="watch%2:41:00::" synset="watch" gloss="keep vigil esp night"/>
+<sense id="4640504" source="ws" wn="watch%2:39:01::" synset="watch" gloss="careful alert"/>
+<sense id="4640507" source="ws" wn="watch%2:39:00::" synset="watch look lookt_at stare regard" gloss="look closely with uninterrupted attention"/>
+<sense id="4640508" source="ws" wn="watch%2:41:00::" synset="watch guard tend attend" gloss="guard tend attentively grandmother watching children"/>
+<sense id="4640509" source="ws" wn="watch%2:41:00::;watch%2:39:05::" synset="watch attend follow keep_track_of" gloss="stay informed aware watches news world"/>
+</lexelt>
+
+
+<lexelt item="win.v">
+<sense id="4711401" source="ws" wn="win%2:33:00::" synset="win conquer prevail triumph" gloss="victorious competition"/>
+<sense id="4711402" source="ws" wn="win%2:41:04::" synset="win overcome succeed triumph" gloss="gain success effort struggle"/>
+<sense id="4711403" source="ws" wn="win%2:33:00::" synset="win gain" gloss="gain victory won race"/>
+<sense id="4711404" source="ws" wn="win%2:40:00::" synset="win achieve acquire attain earn get procure" gloss="obtain effort took years win freedom"/>
+<sense id="4711405" source="ws" synset="win capture conquer" gloss="capture battle army won town"/>
+<sense id="4711406" source="ws" wn="win%2:40:00::" synset="win acquire gain" gloss="gain loyalty sympathy affection like won love"/>
+<sense id="4711407" source="ws" wn="win%2:33:01::" synset="win bring_around" gloss="succeed obtaining support speech won voters"/>
+</lexelt>
+
+
+<lexelt item="write.v">
+<sense id="4753401" source="ws" wn="write%2:36:01::" synset="write" gloss="form letters words symbols characters surface with pen pencil typewriter instrument write your name paper"/>
+<sense id="4753402" source="ws" wn="write%2:32:00::" synset="write" gloss="express record writing wrote ideas"/>
+<sense id="4753403" source="ws" wn="write%2:36:00::;write%2:36:04::" synset="write author compose" gloss="author compose wrote song"/>
+<sense id="4753404" source="ws" wn="write%2:36:01::;write%2:32:00::" synset="write pen" gloss="fill spaces cover with writing wrote six pages"/>
+<sense id="4753405" source="ws" synset="write evidence exhibit manifest" gloss="leave evidence signs guilt written face"/>
+<sense id="4753406" source="ws" wn="write%2:36:01::" synset="write" gloss="form letters words symbols characters surface with pen pencil typewriter instrument"/>
+<sense id="4753407" source="ws" wn="write%2:36:02::" synset="write compose" gloss="create written material job profession writes sells shoes"/>
+<sense id="4753408" source="ws" wn="write%2:32:01::" synset="write" gloss="communicate sending letters write me soon"/>
+</lexelt>
+</dictmap>
+
