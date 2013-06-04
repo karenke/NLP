@@ -1,0 +1,23 @@
+I have extracted the text content from the TRAINING files of the four data set and use python NLTK to get the tokens and 
+generate the Bigrams in the folder ./data/bigrams
+They are in the format: <bigrams> : occurrence, and the start and ending of the sentence is marked as "START xxxx" "xxx END".
+
+her problems : 3
+drawings END : 1
+his unusual : 1
+disc should : 1
+various dramas : 1
+whatsoever it : 1
+priest jon : 1
+miller meant : 1
+she complains : 1
+final transformation : 1
+START appearing : 1
+a vindicated : 1
+
+
+BTW, I have removed some punctuation such as "" , . ? ! .etc
+Not sure whether there is still some bugs in the bigrams since it's so big data that I cannot check it all. 
+
+
+I only use ReadFile.java in src and read.py in data folder.
